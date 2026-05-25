@@ -1,8 +1,10 @@
 # Analisis de Ventas
 
 ## Integrantes
-- Pilar Abrate
-
+(Pilar Abrate)
+-P1: HUGO
+-P2: PACO
+-P3: LUIS
 ## Escenario
 Escenario B - Analisis de ventas
 
