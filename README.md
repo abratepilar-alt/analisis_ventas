@@ -1,3 +1,4 @@
+
 # Analisis de Ventas
 
 ## Descripcion del Proyecto
@@ -9,14 +10,18 @@ El objetivo es aplicar buenas practicas de control de versiones, introducir conc
 ---
 
 ## Estructura del Proyecto
+
 analisis_ventas/
-├── datos/
-│ └── dataset.csv
-├── scripts/
-│ └── analisis_datos (o script.R)
-├── resultados/
-├── README.md
-└── .gitignore
+
+- datos/
+    - sales_sample_2024.csv
+- scripts/
+    - analisis_datos.py
+- resultados/
+    - resumen_estadistico.csv
+- README.md
+- .gitignore
+
 ---
 
 ## Tecnologias Utilizadas
@@ -39,8 +44,27 @@ El proyecto utiliza:
 ---
 
 ## Integrantes
- (Pilar Abrate)
--P1: HUGO
--P2: PACO
--P3: LUIS
+
+(Pilar Abrate)
+
+- P1: HUGO
+- P2: PACO
+- P3: LUIS
+
 ---
+
+## Control de Calidad y Seguridad
+
+Se realizaron revisiones internas del codigo para garantizar:
+
+- organizacion modular del proyecto
+- correcta separacion de datos y scripts
+- ausencia de informacion sensible
+- claridad en la documentacion
+- mantenimiento de buenas practicas de desarrollo
+
+---
+
+## Integracion del Proyecto
+
+La integracion de cambios se realizo mediante Git y GitHub utilizando ramas de desarrollo y merges controlados.
