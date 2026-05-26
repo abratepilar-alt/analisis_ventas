@@ -68,3 +68,5 @@ Se realizaron revisiones internas del codigo para garantizar:
 ## Integracion del Proyecto
 
 La integracion de cambios se realizo mediante Git y GitHub utilizando ramas de desarrollo y merges controlados.
+## Revisión QA
+Revisión de calidad y documentación completada por P3 (Luis).
